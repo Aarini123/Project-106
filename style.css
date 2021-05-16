@@ -48,3 +48,8 @@ label{
   border-radius: 10px;
   background-color: midnightblue;
 }
+
+#captured_image{
+  width:350px;
+height: 300px;
+}
